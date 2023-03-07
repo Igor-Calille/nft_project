@@ -1,0 +1,11 @@
+{
+  "name": "PUCSP-PERDIZES",
+  "description": "Unidade Perdizes",
+  "image": "ipfs://QmQmgUP4etPPPwunrw7c969Szfn5XJCFcNAAhJBEPGuNk5",
+  "attributes": [
+    {
+      "trait_type": "Teste",
+      "value": 100
+    }
+  ]
+}

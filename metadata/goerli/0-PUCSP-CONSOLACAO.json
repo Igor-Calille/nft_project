@@ -1,0 +1,16 @@
+{
+  "name": "PUCSP-CONSOLACAO",
+  "description": "Unidade Consolacao",
+  "image": "ipfs://QmfS9vqtcFnUJoXQedTyrFMwTSfATdnFTWroDNUv2yTAB2",
+  "attributes": [
+    {
+      "trait_type": "Teste",
+      "value": 100
+      
+    },
+    {
+      "trait_type": "Teste",
+      "value": 200
+    }
+  ]
+}
